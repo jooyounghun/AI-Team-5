@@ -23,8 +23,8 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 * Build RCNN architecture
 
 ## DONE
-* [Paper](https://arxiv.org/pdf/1506.01497)
-* [Paper](https://arxiv.org/abs/1703.06870)
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [Paper](https://arxiv.org/pdf/1506.01497)
+* Mask R-CNN [Paper](https://arxiv.org/abs/1703.06870)
 
 
 > Architecture of Network
@@ -74,4 +74,4 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 ## Reference
 - Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster R-CNN: Towards Real-Time Object
 Detection with Region Proposal Networks. arXiv:1506.01497, 2016
-- Facebook AI Research (FAIR). Mask R-CNN. arXiv:1703.06870, 2018
+- Kaiming He Georgia Gkioxari Piotr Dollar Ross Girshick. Facebook AI Research (FAIR). Mask R-CNN. arXiv:1703.06870, 2018
