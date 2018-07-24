@@ -23,8 +23,8 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 * Build RCNN architecture
 
 ## DONE
-* [Paper](https://arxiv.org/pdf/1506.01497) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks 
-* [Paper](https://arxiv.org/abs/1703.06870) Mask R-CNN 
+* [Paper](https://arxiv.org/pdf/1506.01497) "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" 
+* [Paper](https://arxiv.org/abs/1703.06870) "Mask R-CNN"
 
 
 > Architecture of Network
