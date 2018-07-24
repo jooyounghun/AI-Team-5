@@ -35,7 +35,7 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 <table>
   <tr>
     <td>
-     <img src="architecture_of_frcnn.png"/>
+     <img src="architecture_of_frcnn.PNG"/>
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 <table>
   <tr>
     <td>
-      <img src="sample_view_of_frcnn.png"/>
+      <img src="sample_view_of_frcnn.PNG"/>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 <table>
   <tr>
     <td>
-     <img src="architecture_of_mrcnn.png"/>
+     <img src="architecture_of_mrcnn.PNG"/>
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 <table>
   <tr>
     <td>
-      <img src="sample_view_of_mrcnn.png"/>
+      <img src="sample_view_of_mrcnn.PNG"/>
     </td>
   </tr>
 </table>
