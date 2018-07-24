@@ -27,32 +27,51 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 * [Paper](https://arxiv.org/abs/1703.06870)
 
 
-> Image Input
+> Architecture of Network
 
- ** Input size Reduction **
+ ** Faster-RCNN **
 
-- 788 * 526 size image source
+- Architecture
 <table>
   <tr>
     <td>
-     <img src="image/airplane788_526.JPG"/>
+     <img src="architecture_of_frcnn.png"/>
     </td>
   </tr>
 </table>
 
-- 32 * 32 size input
+- Sample View
 <table>
   <tr>
     <td>
-      <img src="image/airplane32_32.jpg"/>
+      <img src="sample_view_of_frcnn.png"/>
     </td>
   </tr>
 </table>
   
+  
+ ** Mast-RCNN **
 
+- Architecture
+<table>
+  <tr>
+    <td>
+     <img src="architecture_of_mrcnn.png"/>
+    </td>
+  </tr>
+</table>
+
+- Sample View
+<table>
+  <tr>
+    <td>
+      <img src="sample_view_of_mrcnn.png"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Reference
 - Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster R-CNN: Towards Real-Time Object
 Detection with Region Proposal Networks. arXiv:1506.01497, 2016
-- 
+- Facebook AI Research (FAIR). Mask R-CNN. arXiv:1703.06870, 2018
