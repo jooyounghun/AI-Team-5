@@ -13,8 +13,7 @@ There is two Paper for achieving job of project application.
 
 ## Datasets - Imagenet
 
-ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently we have an average of over five hundred images per node. We hope ImageNet will become a useful resource for researchers, educators, students and all of you who share our passion for pictures. 
-Click here to learn more about ImageNet, Click here to join the ImageNet mailing list.
+ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently we have an average of over five hundred images per node. We hope ImageNet will become a useful resource for researchers, educators, students and all of you who share our passion for pictures.
 
 <img src="images/imagenet.png"/>
 
