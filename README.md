@@ -1,5 +1,5 @@
 # AI-Team-5
-# Python Project on R-CNN Networks in Faster R-CNN Paper.
+# Project building architecture combining R-CNN network in Faster R-CNN paper and Facenet using Python
 ___
 ## Introduction
 we propose what point affect to accuracy from between Python Package and C raw programming without Package.
