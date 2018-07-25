@@ -11,23 +11,28 @@ we propose what point affect to accuracy from between Python Package and C raw p
 - python 3.x
 
 ## Datasets
+Imagenet 
+<img src="images/sample_view_of_frcnn.png"/>
+
 
 ### Train Image Dataset
-- download dataset from this [link](https://www.cs.toronto.edu/~kriz/cifar.html) and put it in this project
+- download dataset from this [link](http://www.image-net.org) and put it in this project
 
 ### Test Image Dataset
-The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~kriz/cifar.html) and put ti in this project
+The test image dataset are sampled from this [link](http://www.image-net.org) and put ti in this project
 
 ## TODO
-* Analyze existing code
+* Reading Papers(R-CNN, Fast R-CNN, Faster R-CNN, FaceNet) and Studying
+* Analyze existing code from github "https://github.com/jooyounghun/tensorpack/tree/master/examples/FasterRCNN"
 * Build RCNN architecture
 
 ## DONE
+* [Paper](https://arxiv.org/pdf/1503.03832) "FaceNet: A Unified Embedding for Face Recognition and Clustering"
 * [Paper](https://arxiv.org/pdf/1506.01497) "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" 
 * [Paper](https://arxiv.org/abs/1703.06870) "Mask R-CNN"
 
 
-> Architecture of Network
+> Architecture of Network(Faster R-CNN & Mask R-CNN)
 
  ** Faster-RCNN **
 
@@ -72,6 +77,7 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 
 
 ## Reference
+- Florian Schroff, Dmitry Kalenichenko, James Philbin. Google Inc. FaceNet: A Unified Embedding for Face Recognition and Clustering. arXiv:1503.03832, 2015
 - Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster R-CNN: Towards Real-Time Object
 Detection with Region Proposal Networks. arXiv:1506.01497, 2016
 - Kaiming He Georgia Gkioxari Piotr Dollar Ross Girshick. Facebook AI Research (FAIR). Mask R-CNN. arXiv:1703.06870, 2018
