@@ -39,7 +39,7 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
 
  **Faster-RCNN**
 
-- Architecture
+- Key Architecture "Region Proposal Network"
 <table>
   <tr>
     <td>
@@ -48,7 +48,7 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
   </tr>
 </table>
 
-- Sample View
+- Detail of RPN 
 <table>
   <tr>
     <td>
@@ -60,7 +60,7 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
  
  **Mask-RCNN**
 
-- Architecture
+- RoI Align: 2d interpolation for high accuracy of segmentation
 <table>
   <tr>
     <td>
@@ -69,7 +69,7 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
   </tr>
 </table>
 
-- Sample View
+- Result view from paper
 <table>
   <tr>
     <td>
