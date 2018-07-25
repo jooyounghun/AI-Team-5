@@ -2,7 +2,8 @@
 Project building architecture combining R-CNN network in Faster R-CNN paper and Facenet
 ___
 ## Introduction
-we propose what point affect to accuracy from between Python Package and C raw programming without Package.
+we propose some application providing face detection of specific person and face blurring of the others.
+There is two Paper for achieving job of project application.
 
 ## Requirements
 
@@ -10,9 +11,12 @@ we propose what point affect to accuracy from between Python Package and C raw p
 - Build unique RCNN Network for mobile computing environment
 - python 3.x
 
-## Datasets
-Imagenet 
-<img src="images/sample_view_of_frcnn.png"/>
+## Datasets - Imagenet
+
+ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently we have an average of over five hundred images per node. We hope ImageNet will become a useful resource for researchers, educators, students and all of you who share our passion for pictures. 
+Click here to learn more about ImageNet, Click here to join the ImageNet mailing list.
+
+<img src="images/imagenet.png"/>
 
 
 ### Train Image Dataset
