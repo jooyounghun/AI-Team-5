@@ -37,7 +37,7 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
 
 > Architecture of Network(Faster R-CNN & Mask R-CNN)
 
- **Faster-RCNN
+ **Faster-RCNN**
 
 - Architecture
 <table>
@@ -58,7 +58,7 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
 </table>
   
  
- **Mask-RCNN
+ **Mask-RCNN**
 
 - Architecture
 <table>
