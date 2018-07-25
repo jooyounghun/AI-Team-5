@@ -27,9 +27,9 @@ The test image dataset are sampled from this [link](http://www.image-net.org) an
 * Build RCNN architecture
 
 ## DONE
-* [Paper](https://arxiv.org/pdf/1503.03832) "FaceNet: A Unified Embedding for Face Recognition and Clustering"
-* [Paper](https://arxiv.org/pdf/1506.01497) "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" 
-* [Paper](https://arxiv.org/abs/1703.06870) "Mask R-CNN"
+* "FaceNet: A Unified Embedding for Face Recognition and Clustering" [Paper](https://arxiv.org/pdf/1503.03832) 
+* "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" [Paper](https://arxiv.org/pdf/1506.01497)
+* "Mask R-CNN" [Paper](https://arxiv.org/abs/1703.06870)
 
 
 > Architecture of Network(Faster R-CNN & Mask R-CNN)
